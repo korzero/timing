@@ -3,4 +3,13 @@
   <groupId>com.korzero</groupId>
   <artifactId>korzero-timing</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  	<!-- spring batch -->
+  	<dependency>
+		<groupId>org.springframework.batch</groupId>
+		<artifactId>spring-batch-core</artifactId>
+		<version>3.0.1.RELEASE</version>
+	</dependency>
+  </dependencies>
 </project>
